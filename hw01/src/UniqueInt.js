@@ -49,8 +49,8 @@ class UniqueInt {
     }
 }
 
-const inputFolder = "c:\Users\hp\Desktop\.vscode";
-const outputFolder = "C:\Users\hp\Desktop\.vscode";
+const inputFolder = "C:\Users\hp\Desktop\sample _inputs";
+const outputFolder = "C:\Users\hp\Desktop\Sample _results";
 
 const uniqueIntProcessor = new UniqueInt();
 
